@@ -1,5 +1,5 @@
 ### Hi there 👋
-[1] https://www.allbadges.online/github/crazybones/profile/views
+![1](https://www.allbadges.online/github/crazybones/profile/views)
 
 <!--
 **crazybones/crazybones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
